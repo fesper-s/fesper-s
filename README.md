@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello World!
+ <div>
+  <a href="https://github.com/fabricio-esper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-esper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Tux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+## Social Networks:
+  
+<div>
+  <a href="https://instagram.com/fabricio.tar.gz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabricio_esper@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
 
-<!--
-**fabricio-esper/fabricio-esper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Workspace: 
+  
+  <div>
+    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS-00C4C4?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-RTX_2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+  </div>
+  

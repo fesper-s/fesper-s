@@ -31,5 +31,5 @@
   <a target="_blank"> <img src="https://img.shields.io/badge/Windows_8.1-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/i5_3337U-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/4GB-CCCCCC?style=for-the-badge"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/intel_HD_Graphics_4000-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+  <a target="_blank"> <img src="https://img.shields.io/badge/HD_Graphics_4000-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
  </div>

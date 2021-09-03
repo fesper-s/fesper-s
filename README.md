@@ -32,12 +32,4 @@
   <a target="_blank"> <img src="https://img.shields.io/badge/i5_3337U-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/4GB-CCCCCC?style=for-the-badge"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/intel_HD_Graphics_4000-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
- </div><br>
- 
- Smartphone:
- <div>
-  <a target="_blank"> <img src="https://img.shields.io/badge/iphone_SE-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a target+"_blank"> <img src="https://img.shields.io/badge/14.7.1-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/A13_Bionic-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/3GB-CCCCCC?style=for-the-badge"></a>
  </div>

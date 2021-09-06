@@ -1,4 +1,4 @@
-## "Free as in freedom"
+## Free as in freedom
  <div>
   <a href="https://github.com/fabricio-esper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-esper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

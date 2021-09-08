@@ -19,7 +19,7 @@
 ## My Workspace: 
   Desktop:
   <div>
-    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.04-00C4C4?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/16GB-CCCCCC?style=for-the-badge"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/RTX_2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>

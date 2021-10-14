@@ -2,7 +2,6 @@
  <div>
   <a href="https://github.com/fabricio-esper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-esper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <div><br>
   <a target="_blank"> <img src="https://img.shields.io/badge/Gnu/Linux-CCCCCC?style=for-the-badge&logo=linux&logoColor=black"></a>

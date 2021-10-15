@@ -2,6 +2,7 @@
  <div>
   <a target="_blank"> <img src="https://img.shields.io/badge/Gnu/Linux-CCCCCC?style=for-the-badge&logo=linux&logoColor=black"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a target="_blank"> <img src="https://img.shields.io/badge/Bash-CCCCCC?style=for-the-badge&logo=bash&logoColor=black"></a>
 </div>
   
 ## Social Networks:

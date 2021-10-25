@@ -4,6 +4,16 @@
   <a target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 </div>
+
+## About Me: 
+
+<div>
+ - 🐧 I'm a Linux Enthusiastic
+ - ⌨️ I love bash
+ - 🐍 I'm learning python3
+ - ☕️ I'm learning java
+ - 🎓 I study Computer Science
+</div><br>
   
 ## Social Networks:
   

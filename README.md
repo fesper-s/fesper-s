@@ -3,15 +3,13 @@
  - 🐧 I'm a Linux Enthusiastic <br>
  - ⌨️ I'm looking to master bash and shell scripting <br>
  - 🐍 I'm learning python <br>
- - ☕️ I'm learning java <br>
  - 🎓 I study Computer Science
 </div><br>
 
  <div>
   <a target="_blank"> <img src="https://img.shields.io/badge/Gnu/Linux-CCCCCC?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a target="_blank"> <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/Java-CCCCCC?style=for-the-badge&logo=java&logoColor=orange"></a>
   
 </div>
 

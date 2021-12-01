@@ -32,7 +32,7 @@
   Laptop:
   <div>
     <a target="_blank"> <img src="https://img.shields.io/badge/Lenovo-Ideapad_3-999999?style=for-the-badge"></a>
-    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_20.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/8GB-CCCCCC?style=for-the-badge"></a>
   </div><br>

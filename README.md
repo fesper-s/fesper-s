@@ -12,11 +12,12 @@
   <a target="_blank"> <img src="https://img.shields.io/badge/Gnu/Linux-CCCCCC?style=for-the-badge&logo=linux&logoColor=black"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/C-121011?style=for-the-badge&logo=C&logoColor=white"></a>
+  <a target="_blank"> <img src="https://img.shields.io/badge/-121011?style=for-the-badge&logo=C&logoColor=white"></a>
 </div>
 
 ## social_networks() {
 <div>
+  <a href="https://www.linkedin.com/in/fabricio-esper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
   <a href="https://instagram.com/fabricio.tar.gz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabricio_esper@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <br>
  <strong>}<strong/>

@@ -26,7 +26,7 @@
   Desktop:
   <div>
     <a target="_blank"> <img src="https://img.shields.io/badge/Asus-Prime_B450M-999999?style=for-the-badge"></a>
-    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.10-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Windows_10-0071C5?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/16GB-CCCCCC?style=for-the-badge"></a>
@@ -36,16 +36,9 @@
   Laptop:
   <div>
     <a target="_blank"> <img src="https://img.shields.io/badge/Lenovo-Ideapad_3-999999?style=for-the-badge"></a>
-    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_21.10-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     <a target="_blank"> <img src="https://img.shields.io/badge/8GB-CCCCCC?style=for-the-badge"></a>
   </div><br>
-  
- Old Laptop:
- <div>
-  <a target="_blank"> <img src="https://img.shields.io/badge/Dell-Inspiron_3421-999999?style=for-the-badge"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/Pop!OS_20.04-48b9c7?style=for-the-badge&logo=linux&logoColor=white"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/i5_3337U-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-  <a target="_blank"> <img src="https://img.shields.io/badge/4GB-CCCCCC?style=for-the-badge"></a>
- </div>
+
  <strong>}<strong/>

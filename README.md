@@ -1,6 +1,8 @@
 ## Sobre mim 
 <div>
-Cadete na 42 | Rio, estudante de Ciência da Computação, e entusiasta do mundo Linux. 
+  <li>Cadete na 42 | Rio</li>
+  <li>Estudante de Ciência da Computação na Universidade Veiga de Almeida</li>
+  <li>Entusiasta do mundo Linux</li>
 </div><br>
 
 ## Algumas ferramentas que estou familiarizado

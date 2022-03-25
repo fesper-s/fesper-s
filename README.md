@@ -1,9 +1,8 @@
 ## Sobre mim 
 <div>
-  <li>Cadete na 42 | Rio</li>
-  <li>Estudante de Ciência da Computação na Universidade Veiga de Almeida</li>
-  <li>Entusiasta do mundo Linux</li>
-</div><br>
+  <p>Me chamo Fabrício, sou estudante de Engenharia de Software na 42 | Rio e de Ciência da Computação na Universidade Veiga de Almeida.</p>
+  <p>Sou entusiasta de sistemas operacionais, interessado por DevOps e Open-Source.</p>
+</div>
 
 ## Algumas ferramentas que estou familiarizado
 <div style="display: inline_block">

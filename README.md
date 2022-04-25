@@ -2,9 +2,7 @@
   Sou estudante de Engenharia de Software na [42 | Rio](https://42.rio/) e de Ciência da Computação na Universidade Veiga de Almeida.
   
   Sou entusiasta de sistemas operacionais, interessado por DevOps e Open-Source.
-  
-  Atualmente uso `.c`, `.sh`, `.html`, `.css` e `.py`
-
+ 
 ## Estudando
 <div style="display: inline_block">
   <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">

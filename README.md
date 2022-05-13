@@ -11,6 +11,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
+    
+## GitHub Stats
+
+<a href="https://github.com/fabricio-esper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 42 Stats
+<div>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl34sd6w9001109mck13ypwlr/stats?cursusId=21&coalitionId=undefined" alt="fesper-s's 42 stats" /></a><br>
+</div>
 
 ## Socials
 <div>
@@ -19,7 +28,3 @@
   <a href = "mailto:fabricio_esper@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <br>
 </div>
-    
-## GitHub Stats
-
-<a href="https://github.com/fabricio-esper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

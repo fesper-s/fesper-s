@@ -1,5 +1,5 @@
 ## Sobre mim 
-  I'm studying software engineer at [42|Rio](https://42.rio/) (I'm a cadet at 42|Rio).
+  I'm studying software engineering at [42|Rio](https://42.rio/) (I'm a cadet at 42|Rio).
   
   Operating system enthusiast, interested in DevOps and Open-Source.
  

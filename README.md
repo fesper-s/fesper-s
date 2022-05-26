@@ -1,7 +1,7 @@
 ## Sobre mim 
-  Sou estudante de Engenharia de Software na [42 | Rio](https://42.rio/) e de Ciência da Computação na Universidade Veiga de Almeida.
+  I'm studying software engineer at [42|Rio](https://42.rio/) (I'm a cadet at 42|Rio).
   
-  Sou entusiasta de sistemas operacionais, interessado por DevOps e Open-Source.
+  Operating system enthusiast, interested in DevOps and Open-Source.
  
 ## Skills
 <div style="display: inline_block">
@@ -14,7 +14,7 @@
     
 ## GitHub Stats
 
-<a href="https://github.com/fabricio-esper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 42 Stats
 <div>

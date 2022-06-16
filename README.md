@@ -23,8 +23,24 @@
 
 ## My Workspace
 <div>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Mac mini (Late 2014)-7289DA?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/intel-7289DA?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/prime b450m-04539b?style=for-the-badge&logo=asus&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/ryzen 5 2600x-d31b22?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/16gb-333333?style=for-the-badge" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/rtx 2070-75ba06?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/pop!os 22.04 LTS-48b9c7?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/windows 11-047bd3?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+</div><br>
+<div>
+  <a><img src="https://img.shields.io/badge/lenovo ideapad 3-d2341d?style=for-the-badge&logo=lenovo&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/ryzen 5 5500u-d31b22?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/8gb-333333?style=for-the-badge" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/arch linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" target="_blank"></a>
+</div><br>
+<div>
+  <a><img src="https://img.shields.io/badge/Mac mini (Late 2014)-70b53d?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a> 
+  <a><img src="https://img.shields.io/badge/i5 4th gen-f08d14?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/4gb-d95340?style=for-the-badge" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/macos bigsur-8e4a98?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>
 </div>
 
 ## Stay in touch

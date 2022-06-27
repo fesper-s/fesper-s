@@ -38,7 +38,7 @@
 </div><br>
 <div>
   <a><img src="https://img.shields.io/badge/Mac mini (Late 2014)-70b53d?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a> 
-  <a><img src="https://img.shields.io/badge/i5 4th gen-f08d14?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/i5 4260U-f08d14?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/4gb-d95340?style=for-the-badge" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/macos bigsur-8e4a98?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>
 </div>

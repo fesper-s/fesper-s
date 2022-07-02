@@ -27,7 +27,7 @@
   <a><img src="https://img.shields.io/badge/ryzen 5 2600x-d31b22?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/16gb-333333?style=for-the-badge" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/rtx 2070-75ba06?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/pop!os 22.04 LTS-48b9c7?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/arch linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/windows 11-047bd3?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div><br>
 <div>

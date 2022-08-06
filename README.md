@@ -16,25 +16,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 42 Stats
-<div>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl34sd6w9001109mck13ypwlr/stats?cursusId=21&coalitionId=undefined" alt="fesper-s's 42 stats" /></a><br>
-</div>
-
 ## My Workspace
 <div>
   <a><img src="https://img.shields.io/badge/prime b450m-04539b?style=for-the-badge&logo=asus&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/ryzen 5 2600x-d31b22?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/16gb-333333?style=for-the-badge" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/rtx 2070-75ba06?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/arch linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/pop!os 22.04 LTS-63b3c3?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/windows 10-047bd3?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 </div><br>
 <div>
   <a><img src="https://img.shields.io/badge/lenovo ideapad 3-d2341d?style=for-the-badge&logo=lenovo&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/ryzen 5 5500u-d31b22?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/8gb-333333?style=for-the-badge" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/arch linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/pop!os 22.04 LTS-63b3c3?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 </div><br>
 <div>
   <a><img src="https://img.shields.io/badge/Mac mini (Late 2014)-70b53d?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a> 

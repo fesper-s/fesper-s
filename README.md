@@ -1,20 +1,20 @@
 ## About me 
 * I'm studying software engineering at [42|Rio](https://42.rio/).
 * Operating system enthusiast, interested in DevOps and Open-Source.
- 
+
+## École 42's Projects
+<a href="https://github.com/fabricio-esper/42-libft">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/libfte.png)</a>
+<a href="https://github.com/fabricio-esper/42-get_next_line">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/fabricio-esper/42-born2beroot">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/born2beroote.png)</a>
+<a href="https://github.com/fabricio-esper/42-ft_printf">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/fabricio-esper/42-pipex">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/pipexe.png)</a>
+<a href="https://github.com/fabricio-esper/42-so_long">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/so_longe.png)</a>
+
 ## Skills
-<div style="display: inline_block">
-<img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,discord,vscode,python,java,html,css)](https://skillicons.dev)
+<br>
     
 ## GitHub Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stay in touch

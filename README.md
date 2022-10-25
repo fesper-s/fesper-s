@@ -9,6 +9,7 @@
 <a href="https://github.com/fabricio-esper/42-ft_printf">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/fabricio-esper/42-pipex">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/pipexe.png)</a>
 <a href="https://github.com/fabricio-esper/42-so_long">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/so_longe.png)</a>
+<a href="https://github.com/fabricio-esper/42-push_swap">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/push_swape.png)</a>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,discord,vscode,python,java,html,css)](https://skillicons.dev)

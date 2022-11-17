@@ -12,7 +12,7 @@
 <a href="https://github.com/fabricio-esper/42-push_swap">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/push_swape.png)</a>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,discord,vscode,python,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,vscode,python,js,nodejs)](https://skillicons.dev)
 <br>
     
 ## GitHub Stats

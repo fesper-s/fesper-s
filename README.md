@@ -3,13 +3,36 @@
 * Operating system enthusiast, interested in DevOps and Open-Source.
 
 ## École 42's Projects
-<a href="https://github.com/fabricio-esper/42-libft">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/libfte.png)</a>
-<a href="https://github.com/fabricio-esper/42-get_next_line">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/fabricio-esper/42-born2beroot">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/born2beroote.png)</a>
-<a href="https://github.com/fabricio-esper/42-ft_printf">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/fabricio-esper/42-pipex">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/pipexe.png)</a>
-<a href="https://github.com/fabricio-esper/42-so_long">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/so_longe.png)</a>
-<a href="https://github.com/fabricio-esper/42-push_swap">![42 BADGE](https://github.com/fabricio-esper/fabricio-esper/blob/main/src/42_badges/push_swape.png)</a>
+<div align="center">
+<h3>rank 00</h3>
+<a href="https://github.com/fabricio-esper/42-libft">
+<img height="80px" src="./src/42_badges/libftm.png" />
+</a>
+<h3>rank 01</h3>
+<a href="https://github.com/fabricio-esper/42-get_next_line">
+<img height="80px" src="./src/42_badges/get_next_linem.png" />
+</a>
+<a href="https://github.com/fabricio-esper/42-born2beroot">
+<img height="80px" src="./src/42_badges/born2beroote.png" />
+</a>
+<a href="https://github.com/fabricio-esper/42-ft_printf">
+<img height="80px" src="./src/42_badges/ft_printfe.png" />
+</a>
+<h3>rank 02</h3>
+<a href="https://github.com/fabricio-esper/42-pipex">
+<img height="80px" src="./src/42_badges/pipexe.png" />
+</a>
+<a href="https://github.com/fabricio-esper/42-so_long">
+<img height="80px" src="./src/42_badges/so_longe.png" />
+</a>
+<a href="https://github.com/fabricio-esper/42-push_swap">
+<img height="80px" src="./src/42_badges/push_swape.png" />
+</a>
+<h3>rank 03</h3>
+<a href="https://github.com/fabricio-esper/42-Philosophers">
+<img height="80px" src="./src/42_badges/philosophersn.png" />
+</a>
+</div>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,vscode,python,js,nodejs)](https://skillicons.dev)

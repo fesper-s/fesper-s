@@ -43,6 +43,7 @@
 
 ## Stay in touch
 <div>
+  <a href="https://www.discord.com/users/322134049881587713" target="_blank"><img align="center" alt="Discord" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"></a>
   <a href="https://www.linkedin.com/in/fabricio-esper/" target="_blank"><img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
   <a href="https://instagram.com/fabricio_esper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </div>

@@ -39,7 +39,7 @@
 <br>
     
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-esper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stay in touch
 <div>

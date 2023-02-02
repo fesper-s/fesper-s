@@ -1,5 +1,5 @@
 ## About me 
-* I'm studying software engineering at [42|Rio](https://42.rio/).
+* I'm studying software engineering at [42 Rio](https://42.rio/).
 * Operating system enthusiast, interested in DevOps and Open-Source.
 
 ## École 42's Projects

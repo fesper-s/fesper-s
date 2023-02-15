@@ -28,7 +28,7 @@
 <img height="80px" src="./src/42_badges/philosopherse.png" />
 </a>
 <a href="https://github.com/fesper-s/42-minishell">
-<img height="80px" src="./src/42_badges/minishelln.png" />
+<img height="80px" src="./src/42_badges/minishelle.png" />
 </a>
 <a href="https://github.com/fesper-s/42-CPP">
 <img height="80px" src="./src/42_badges/cppn.png" />

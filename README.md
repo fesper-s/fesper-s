@@ -30,6 +30,9 @@
 <a href="https://github.com/fesper-s/42-minishell">
 <img height="80px" src="./src/42_badges/minishelln.png" />
 </a>
+<a href="https://github.com/fesper-s/42-CPP">
+<img height="80px" src="./src/42_badges/cppn.png" />
+</a>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,vscode,python,js,nodejs)](https://skillicons.dev)

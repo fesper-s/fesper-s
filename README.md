@@ -35,7 +35,7 @@
 </a>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github,vscode,python,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,git,github,cpp,python,js,nodejs)](https://skillicons.dev)
 <br>
     
 ## GitHub Stats

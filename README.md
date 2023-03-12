@@ -36,6 +36,9 @@
 <a href="https://github.com/fesper-s/42-CPP">
 <img height="80px" src="./src/42_badges/cppn.png" />
 </a>
+<a href="https://github.com/fesper-s/42-cub3d">
+<img height="80px" src="./src/42_badges/cub3dn.png" />
+</a>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,git,github,cpp,python,js,nodejs)](https://skillicons.dev)

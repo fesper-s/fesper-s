@@ -31,7 +31,7 @@
 <img height="80px" src="./src/42_badges/minishelle.png" />
 </a>
 <a href="https://github.com/fesper-s/42-NetPractice">
-<img height="80px" src="./src/42_badges/netpracticen.png" />
+<img height="80px" src="./src/42_badges/netpracticee.png" />
 </a>
 <a href="https://github.com/fesper-s/42-CPP">
 <img height="80px" src="./src/42_badges/cppn.png" />

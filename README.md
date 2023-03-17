@@ -1,6 +1,19 @@
-## About me 
+## About me
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/fesper-s/fesper-s/blob/main/assets/theBatman.gif">
+</div><br>
+
+
+Comic book enjoyer 🦇
+
+Operating system enthusiast, interested in DevOps and Open-Source.
+
+Learning:
 * I'm studying software engineering at [42 Rio](https://42.rio/).
-* Operating system enthusiast, interested in DevOps and Open-Source.
+* C/C++
+* Shell Script
+* Unix/Linux
 
 ## École 42's Projects
 <a href="https://github.com/fesper-s/42-libft">
@@ -32,16 +45,16 @@
 </a>
 <a href="https://github.com/fesper-s/42-NetPractice">
 <img height="80px" src="./src/42_badges/netpracticee.png" />
+<a href="https://github.com/fesper-s/42-cub3d">
+<img height="80px" src="./src/42_badges/cub3dn.png" />
+</a>
 </a>
 <a href="https://github.com/fesper-s/42-CPP">
 <img height="80px" src="./src/42_badges/cppn.png" />
 </a>
-<a href="https://github.com/fesper-s/42-cub3d">
-<img height="80px" src="./src/42_badges/cub3dn.png" />
-</a>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,git,github,cpp,python,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,python,js,nodejs)](https://skillicons.dev)
 <br>
     
 ## GitHub Stats

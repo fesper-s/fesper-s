@@ -58,6 +58,7 @@ Learning:
 <br>
     
 ## GitHub Stats
+![git stats](https://github-readme-streak-stats.herokuapp.com/?user=fesper-s&show_icons=true&count_private=false&theme=regular&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stay in touch

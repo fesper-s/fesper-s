@@ -46,7 +46,7 @@ Learning:
 <a href="https://github.com/fesper-s/42-NetPractice">
 <img height="80px" src="./src/42_badges/netpracticem.png" />
 <a href="https://github.com/fesper-s/42-cub3d">
-<img height="80px" src="./src/42_badges/cub3dn.png" />
+<img height="80px" src="./src/42_badges/cub3de.png" />
 </a>
 </a>
 <a href="https://github.com/fesper-s/42-CPP">

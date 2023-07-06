@@ -50,7 +50,7 @@ Learning:
 <img height="80px" src="./src/42_badges/cub3de.png" />
 </a>
 <a href="https://github.com/fesper-s/42-CPP">
-<img height="80px" src="./src/42_badges/cppn.png" />
+<img height="80px" src="./src/42_badges/cppe.png" />
 </a>
 <a href="https://github.com/fesper-s/42-Inception">
 <img height="80px" src="./src/42_badges/inceptionn.png" />

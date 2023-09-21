@@ -67,12 +67,5 @@ Learning:
 ![git stats](https://github-readme-streak-stats.herokuapp.com/?user=fesper-s&show_icons=true&count_private=false&theme=regular&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stay in touch
-<div>
-  <a href="https://www.discord.com/users/322134049881587713" target="_blank"><img align="center" alt="Discord" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"></a>
-  <a href="https://www.linkedin.com/in/fesper-s/" target="_blank"><img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-  <a href="https://instagram.com/fabricio_esper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</div>
-
 ## 
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=fesper-s&color=blue&style=flat&label=visitors" />

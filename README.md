@@ -12,6 +12,7 @@ Operating system enthusiast, interested in Game Development, DevOps and Open-Sou
 Learning:
 * I'm studying software engineering at [42 Rio](https://42.rio/).
 * C/C++
+* Python
 * Shell Script
 * Unix/Linux
 

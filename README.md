@@ -57,7 +57,10 @@ Learning:
 <img height="80px" src="./src/42_badges/inceptione.png" />
 </a>
 <a href="https://github.com/fesper-s/42-webserv">
-<img height="80px" src="./src/42_badges/webservn.png" />
+<img height="80px" src="./src/42_badges/webserve.png" />
+</a>
+<a href="https://github.com/fesper-s/42-ft_transcendence">
+<img height="80px" src="./src/42_badges/ft_transcendencen.png" />
 </a>
 
 ## Skills

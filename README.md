@@ -7,7 +7,7 @@
 
 Comic book enjoyer 🦇
 
-Operating system enthusiast, interested in Game Development, DevOps and Open-Source.
+Operating system enthusiast, interested in Game Development and Open-Source.
 
 Learning:
 * I'm studying software engineering at [42 Rio](https://42.rio/).

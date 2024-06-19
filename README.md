@@ -11,12 +11,12 @@ Operating system enthusiast, interested in Game Development and Open-Source.
 
 Learning:
 * I'm studying software engineering at [42 Rio](https://42.rio/).
-* C/C++
-* Python
-* Shell Script
-* Unix/Linux
+* JavaScript
+* C#
+* Unity
+* Lua
 
-## École 42's Projects
+## 42 School's Projects
 <a href="https://github.com/fesper-s/42-libft">
 <img height="80px" src="./src/42_badges/libftm.png" />
 </a>

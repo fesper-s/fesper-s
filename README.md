@@ -1,13 +1,5 @@
 ## About me
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/fesper-s/fesper-s/blob/main/assets/theBatman.gif">
-</div><br>
-
-
-Comic book enjoyer 🦇
-
-
 Learning:
 * I'm studying software engineering at [42 Rio](https://42.rio/).
 * JavaScript

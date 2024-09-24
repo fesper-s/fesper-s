@@ -50,7 +50,7 @@ I'm studying software engineering at [42 Rio](https://42.rio/).
 </a>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,python,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,c,cpp,git,github)](https://skillicons.dev)
 <br>
     
 ## GitHub Stats

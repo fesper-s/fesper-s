@@ -1,11 +1,6 @@
 ## About me
 
-Learning:
-* I'm studying software engineering at [42 Rio](https://42.rio/).
-* JavaScript
-* C#
-* Unity
-* Lua
+I'm studying software engineering at [42 Rio](https://42.rio/).
 
 ## 42 School's Projects
 <a href="https://github.com/fesper-s/42-libft">

@@ -1,8 +1,16 @@
-## About me
+## Hello! I'm Fabrício
 
-I'm studying software engineering at [42 Rio](https://42.rio/).
+<br><div align=center>
+    <img width="350" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRybW9pcXllbHB1dTduanh3dHk4NHZtejh2ajRlZnBqN3Z2dDU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13sK2LHnXFx5za/giphy.webp">
+</div><br>
 
-## 42 School's Projects
+- I'm a software engineering student at [42 Rio](https://42.rio/)
+
+- I’m currently learning **Full Stack Development**
+
+- Find me at 42 as fesper-s
+
+## 42 Rio's Projects
 <a href="https://github.com/fesper-s/42-libft">
 <img height="80px" src="./src/42_badges/libftm.png" />
 </a>

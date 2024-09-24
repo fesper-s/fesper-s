@@ -54,8 +54,10 @@ I'm studying software engineering at [42 Rio](https://42.rio/).
 <br>
     
 ## GitHub Stats
-![git stats](https://github-readme-streak-stats.herokuapp.com/?user=fesper-s&show_icons=true&count_private=false&theme=regular&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fesper-s&show_icons=true&count_private=true&theme=regular&include_all_commits=true" />
+   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact&show_icons=true&count_private=true&theme=regular&include_all_commits=true" />
+ </div>
 
 ## 
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=fesper-s&color=blue&style=flat&label=visitors" />

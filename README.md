@@ -54,7 +54,7 @@
 <img height="80px" src="./src/42_badges/webserve.png" />
 </a>
 <a href="https://github.com/fesper-s/42-ft_transcendence">
-<img height="80px" src="./src/42_badges/ft_transcendencen.png" />
+<img height="80px" src="./src/42_badges/ft_transcendencee.png" />
 </a>
 
 ## Skills

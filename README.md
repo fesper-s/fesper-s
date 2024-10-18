@@ -8,7 +8,7 @@
 
 - I’m currently learning **Full Stack Development**
 
-- Find me at 42 as fesper-s
+- Find me at 42 as [fesper-s](https://profile.intra.42.fr/users/fesper-s)
 
 ## 42's Common Core
 <a href="https://github.com/fesper-s/42-libft">

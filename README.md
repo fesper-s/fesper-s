@@ -10,7 +10,7 @@
 
 - Find me at 42 as fesper-s
 
-## 42 Common Core
+## 42's Common Core
 <a href="https://github.com/fesper-s/42-libft">
 <img height="80px" src="./src/42_badges/libftm.png" />
 </a>

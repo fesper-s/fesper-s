@@ -1,11 +1,7 @@
 # Hello! I'm Fabrício
 
-<br><div>
-    <img width="350" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRybW9pcXllbHB1dTduanh3dHk4NHZtejh2ajRlZnBqN3Z2dDU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13sK2LHnXFx5za/giphy.webp">
-</div><br>
-
 - I'm working as fullstack developer at Avantsoft
-- I'm a Human Coder at [42 Rio](https://42.rio/)
+- I'm an Alumni from [42 Rio](https://42.rio/)
 - Find me at 42 as [fesper-s](https://profile.intra.42.fr/users/fesper-s)
 
 ## Skills

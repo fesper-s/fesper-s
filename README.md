@@ -1,3 +1,7 @@
+<div align="center">
+    <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/fesper-s/fesper-s/blob/main/src/gif.gif">
+</div>
+
 # Hello! I'm Fabrício
 
 - 🧑🏻‍💻 I'm working as fullstack developer at Avantsoft
@@ -9,9 +13,8 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,flask,js,react,nodejs,python,ruby,rails,docker,postgresql,aws)](https://skillicons.dev)
 <br>
- <div  style="margin-bottom:100px">
-   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact&show_icons=true&count_private=true&theme=regular&include_all_commits=true" />
- </div>
+| [![fesper-s' GitHub stats](https://github-readme-stats.vercel.app/api?username=fesper-s&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/fesper-s?tab=repositories) | [![fesper-s' most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/fesper-s?tab=repositories) |
+|:-:|:-:|
 
 ## 
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=fesper-s&color=blue&style=flat&label=visitors" />

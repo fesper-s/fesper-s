@@ -1,8 +1,10 @@
 # Hello! I'm Fabrício
 
-- I'm working as fullstack developer at Avantsoft
-- I'm an Alumni from [42 Rio](https://42.rio/)
-- Find me at 42 as [fesper-s](https://profile.intra.42.fr/users/fesper-s)
+- 🧑🏻‍💻 I'm working as fullstack developer at Avantsoft
+
+- 🧑🏻‍🎓 I'm an Alumni from [42 Rio](https://42.rio/)
+
+- 🔍 Find me at 42 as [fesper-s](https://profile.intra.42.fr/users/fesper-s)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,flask,js,react,nodejs,python,ruby,rails,docker,postgresql,aws)](https://skillicons.dev)

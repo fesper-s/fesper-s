@@ -1,20 +1,19 @@
-<div align="center">
-    <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/fesper-s/fesper-s/blob/main/src/gif.gif">
-</div>
+### Hello! 👋
+I'm Fabrício, a full-stack developer based in Brazil.
 
-# Hello! I'm Fabrício
+Currently working at **Avantsoft**.
 
-- 🧑🏻‍💻 I'm working as fullstack developer at Avantsoft
+Graduate of [École 42](https://42.rio/), a worldwide software engineering school.
 
-- 🧑🏻‍🎓 I'm an Alumni from [42 Rio](https://42.rio/)
+My main tech stack includes **React**, **Next.js** and **Flask**. I use **Arch Linux**, by the way!
 
-- 🔍 Find me at 42 as [fesper-s](https://profile.intra.42.fr/users/fesper-s)
+I have some pinned projects, and my favorite is [cub3d](https://github.com/fesper-s/42-cub3d), where I implemented **raycasting technique** to make a 2D game look like 3D, inspired by *Wolfenstein 3D*.
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flask,js,react,nodejs,python,ruby,rails,docker,postgresql,aws)](https://skillicons.dev)
-<br>
-| [![fesper-s' GitHub stats](https://github-readme-stats.vercel.app/api?username=fesper-s&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/fesper-s?tab=repositories) | [![fesper-s' most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/fesper-s?tab=repositories) |
-|:-:|:-:|
+I've built more than 20 public repositories, and over 40 including private projects.
 
-## 
-<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=fesper-s&color=blue&style=flat&label=visitors" />
+### Fun Facts:
+
+* 🐹 I have a guinea pig
+* 🍕 I love making pizza
+* 🦇 The Batman is my favorite movie
+* 🎮 **Hobbies:** gaming, linux operating systems, building PCs, netflix

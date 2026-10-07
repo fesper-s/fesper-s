@@ -13,7 +13,7 @@ I've built more than 20 public repositories, and over 40 including private proje
 
 ### Fun Facts:
 
-* 🐹 I have a guinea pig
+* 💿 Physical game media collector
 * 🍕 I love making pizza
-* 🕷️ Spider-Man: Into the Spider-Verse is my favorite movie
+* 🕷️ Spider-Man 2 is my favorite movie
 * 🎮 **Hobbies:** gaming, linux operating systems, building PCs, netflix
